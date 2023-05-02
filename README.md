@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 3rd year Electrical Undergrade at<br>👯 Veermata Jijabai Technological Institute<br>🤝Seeking for an INTERNSHIP opportunity<br>🌱 Data Structures and Algorithm , Reactjs<br>⚡ Proficient in C++ with Excellent Problem Solving Skills<br>
-
+<br>Solved 400+ Data structures and Algorithm problems on sites such as leetcode, GeekforGeek,Codechef<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rohan Nagrut ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohan Nagrut ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rohannagrut) 
