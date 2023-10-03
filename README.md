@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 3rd year Electrical Undergrade at<br>👯 Veermata Jijabai Technological Institute<br>🤝Seeking for an INTERNSHIP opportunity<br>🌱 Data Structures and Algorithm , Reactjs<br>⚡ Proficient in C++ with Excellent Problem Solving Skills<br>
+🔭 4rd year Electrical Undergrade at<br>👯 Veermata Jijabai Technological Institute<br>🤝Seeking for an INTERNSHIP opportunity<br>🌱 Data Structures and Algorithm , Reactjs<br>⚡ Proficient in C++ with Excellent Problem Solving Skills<br>
 <br>Solved 400+ Data structures and Algorithm problems on sites such as leetcode, GeekforGeek,Codechef<br>
 
 ## 🌐 Socials:
